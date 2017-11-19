@@ -1,0 +1,21 @@
+#container{
+    padding:250px;
+}
+
+h1{
+    position: absolute;
+    top: 120px;
+    padding-left: 10px;
+font-family: 'Libre Franklin', sans-serif;
+}
+
+body{
+    background-image: url('background2.png');
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+font-family: 'Libre Franklin', sans-serif;
+}
+
+#message{
+    padding:70px;
+}
